@@ -38,12 +38,6 @@ I build and ship products end-to-end using AI-assisted development. Edinburgh, S
 
 ---
 
-## Stack
-
-`Claude Code` `React Native` `Node.js` `TypeScript` `Python` `Laravel` `PostgreSQL` `Firebase` `Azure` `Railway` `Stripe` `Docker`
-
----
-
 [Portfolio](https://davidcruz-dev.github.io/portfolio) | [LinkedIn](https://linkedin.com/in/davidlacruz) | [Email](mailto:davidcruz.eu@gmail.com)
 
 ---
