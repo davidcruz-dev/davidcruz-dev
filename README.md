@@ -40,7 +40,7 @@ I build and ship products end-to-end using AI-assisted development. Edinburgh, S
 
 ## Stack
 
-`Claude Code` `React Native` `Node.js` `TypeScript` `Python` `Firebase` `Azure` `Docker`
+`Claude Code` `React Native` `Node.js` `TypeScript` `Python` `Laravel` `PostgreSQL` `Firebase` `Azure` `Railway` `Stripe` `Docker`
 
 ---
 
