@@ -10,7 +10,7 @@ I build and ship products end-to-end using AI-assisted development. Edinburgh, S
 
 ## Now
 
-**Product Engineer @ Frogbit Solutions** - Building AI-powered products using Claude Code
+**Product Engineer @ Frogbit** - Building AI-powered products using Claude Code
 
 **Co-founder @ [RiderAds.co.uk](https://www.riderads.co.uk/)** - Mobile advertising platform, 30K+ daily impressions
 
