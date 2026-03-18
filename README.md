@@ -1,8 +1,8 @@
 # David De La Cruz
 
-Product Engineer | AI-Powered Product Development
+AI Automation Engineer | Systems Integration
 
-I build and ship products end-to-end using AI-assisted development. Edinburgh, Scotland.
+I build LLM-powered pipelines and API-driven systems using Claude Code. Autonomous AI agents, workflow automation, and systems integration across content, marketing, and trading domains. Edinburgh, Scotland.
 
 **[davidcruz-dev.github.io/portfolio](https://davidcruz-dev.github.io/portfolio)**
 
@@ -10,9 +10,9 @@ I build and ship products end-to-end using AI-assisted development. Edinburgh, S
 
 ## Now
 
-**Product Engineer @ Frogbit** - Building AI-powered products using Claude Code
+**AI Automation Engineer @ Frogbit** - Building automation pipelines and AI-powered systems using Claude Code
 
-**Co-founder @ [RiderAds.co.uk](https://www.riderads.co.uk/)** - Mobile advertising platform, 30K+ daily impressions
+**Founder & Technical Lead @ [RiderAds.co.uk](https://www.riderads.co.uk/)** - Advertising platform, 30K+ daily impressions
 
 ---
 
@@ -20,10 +20,10 @@ I build and ship products end-to-end using AI-assisted development. Edinburgh, S
 
 | | |
 |---|---|
-| **3 Production Apps in 9 Months** | 60% faster than traditional development using Claude Code |
+| **SCOOP** | Content replication pipeline using Gemini API and Sora |
+| **OpenClaw** | Fully autonomous AI trading agent on live Polymarket data |
+| **RiderAds** | 30K+ daily impressions, 5 paying clients, Converge Challenge winner |
 | **Chargeback Shield** | AI fraud detection on Shopify App Store |
-| **RiderAds Platform** | 30K+ daily impressions, 20+ brand partnerships |
-| **Scottish Enterprise Grant** | Founded Algae at age 20 |
 
 ---
 
@@ -31,10 +31,11 @@ I build and ship products end-to-end using AI-assisted development. Edinburgh, S
 
 | Project | Stack |
 |---------|-------|
-| [Chargeback Shield](https://apps.shopify.com/chargeback-shield) | TypeScript, React, Node.js, TensorFlow.js |
 | [RiderAds.co.uk](https://www.riderads.co.uk/) | React Native, Firebase, Node.js, Azure |
-| Bitcoin Trading Bot | Python, Azure OpenAI, GPT-4 Vision |
+| SCOOP | Gemini API, OpenAI API (Sora) |
+| OpenClaw | Python, Claude API, Polymarket API, Linux VPS |
 | [FrogbitShop](https://frogbitshop.up.railway.app/) | Laravel, PostgreSQL, Stripe |
+| [Chargeback Shield](https://apps.shopify.com/chargeback-shield) | TypeScript, React, Node.js, TensorFlow.js |
 
 ---
 
