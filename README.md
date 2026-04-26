@@ -12,7 +12,7 @@ I build LLM-powered pipelines and API-driven systems using Claude Code. Autonomo
 
 **AI Product Engineer @ [frogbitsolutions.com](https://www.frogbitsolutions.com/)** - Building automation pipelines and AI-powered systems using Claude Code
 
-**Founder & Product Engineer @ [RiderAds.co.uk](https://www.riderads.co.uk/)** Advertising platform, 30K+ daily impressions
+**Founder & Product Engineer @ [RiderAds.co.uk](https://www.riderads.co.uk/)** Advertising platform
 
 ---
 
@@ -23,7 +23,7 @@ I build LLM-powered pipelines and API-driven systems using Claude Code. Autonomo
 | **RiderAds** | Mobile Outdoor Advertising Platform, Screens on Delivery Bags, 30K+ daily impressions|
 | **Trading Bot** | Fully autonomous AI trading agent on live Polymarket data |
 | **Viral Video Replicator** | Content replication pipeline using Gemini API and Sora |
-| **FrogbitShop** | Ecommerce Platform|
+| **FrogbitShop** | Ecommerce Platform |
 
 ---
 
