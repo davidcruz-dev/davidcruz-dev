@@ -20,10 +20,10 @@ I build LLM-powered pipelines and API-driven systems using Claude Code. Autonomo
 
 | | |
 |---|---|
-| **Viral Video Replicator** | Content replication pipeline using Gemini API and Sora |
+| **RiderAds** | Mobile Outdoor Advertising Platform, Screens on Delivery Bags, 30K+ daily impressions|
 | **Trading Bot** | Fully autonomous AI trading agent on live Polymarket data |
-| **RiderAds** | 30K+ daily impressions, 5 paying clients, Converge Challenge winner |
-| **Chargeback Shield** | AI fraud detection on Shopify App Store |
+| **Viral Video Replicator** | Content replication pipeline using Gemini API and Sora |
+| **FrogbitShop** | Ecommerce Platform|
 
 ---
 
