@@ -1,6 +1,6 @@
 # David De La Cruz
 
-AI Automation Engineer | Systems Integration
+Claude AI Engineer | Systems Integration
 
 I build LLM-powered pipelines and API-driven systems using Claude Code. Autonomous AI agents, workflow automation, and systems integration across content, marketing, and trading domains. Edinburgh, Scotland.
 
@@ -10,9 +10,9 @@ I build LLM-powered pipelines and API-driven systems using Claude Code. Autonomo
 
 ## Now
 
-**AI Automation Engineer @ Frogbit** - Building automation pipelines and AI-powered systems using Claude Code
+*Claude AI Engineer @ Frogbit** - Building automation pipelines and AI-powered systems using Claude Code
 
-**Founder & Technical Lead @ [RiderAds.co.uk](https://www.riderads.co.uk/)** - Advertising platform, 30K+ daily impressions
+**Founder & Product Engineer @ [RiderAds.co.uk](https://www.riderads.co.uk/)** Advertising platform, 30K+ daily impressions
 
 ---
 
@@ -20,8 +20,8 @@ I build LLM-powered pipelines and API-driven systems using Claude Code. Autonomo
 
 | | |
 |---|---|
-| **SCOOP** | Content replication pipeline using Gemini API and Sora |
-| **OpenClaw** | Fully autonomous AI trading agent on live Polymarket data |
+| **Viral Video Replicator** | Content replication pipeline using Gemini API and Sora |
+| **Trading Bot** | Fully autonomous AI trading agent on live Polymarket data |
 | **RiderAds** | 30K+ daily impressions, 5 paying clients, Converge Challenge winner |
 | **Chargeback Shield** | AI fraud detection on Shopify App Store |
 
@@ -32,7 +32,7 @@ I build LLM-powered pipelines and API-driven systems using Claude Code. Autonomo
 | Project | Stack |
 |---------|-------|
 | [RiderAds.co.uk](https://www.riderads.co.uk/) | React Native, Firebase, Node.js, Azure |
-| SCOOP | Gemini API, OpenAI API (Sora) |
+| Viral Videos Replicator| Gemini API, OpenAI API |
 | OpenClaw | Python, Claude API, Polymarket API, Linux VPS |
 | [FrogbitShop](https://frogbitshop.up.railway.app/) | Laravel, PostgreSQL, Stripe |
 | [Chargeback Shield](https://apps.shopify.com/chargeback-shield) | TypeScript, React, Node.js, TensorFlow.js |
