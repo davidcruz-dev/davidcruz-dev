@@ -1,6 +1,6 @@
 # David De La Cruz
 
-Claude AI Engineer | Systems Integration
+AI Product Engineer | Systems Integration
 
 I build LLM-powered pipelines and API-driven systems using Claude Code. Autonomous AI agents, workflow automation, and systems integration across content, marketing, and trading domains. Edinburgh, Scotland.
 
