@@ -10,7 +10,7 @@ I build LLM-powered pipelines and API-driven systems using Claude Code. Autonomo
 
 ## Now
 
-*AI Product Engineer* @ frogbitsolutions.com* - Building automation pipelines and AI-powered systems using Claude Code
+*AI Product Engineer* frogbitsolutions.com - Building automation pipelines and AI-powered systems using Claude Code
 
 **Founder & Product Engineer @ [RiderAds.co.uk](https://www.riderads.co.uk/)** Advertising platform, 30K+ daily impressions
 
