@@ -4,13 +4,11 @@ AI Product Engineer | Systems Integration
 
 I build LLM-powered pipelines and API-driven systems using Claude Code. Autonomous AI agents, workflow automation, and systems integration across content, marketing, and trading domains. Edinburgh, Scotland.
 
-**[davidcruz-dev.github.io/portfolio](https://davidcruz-dev.github.io/portfolio)**
-
 ---
 
 ## Now
 
-**AI Product Engineer @ [frogbitsolutions.com](https://www.frogbitsolutions.com/)** - Building automation pipelines and AI-powered systems using Claude Code
+**Product Engineer @ [frogbitsolutions.com](https://www.frogbitsolutions.com/)** - Building automation pipelines and AI-powered systems using Claude Code
 
 **Founder & Product Engineer @ [RiderAds.co.uk](https://www.riderads.co.uk/)** Advertising platform
 
@@ -32,7 +30,7 @@ I build LLM-powered pipelines and API-driven systems using Claude Code. Autonomo
 | Project | Stack |
 |---------|-------|
 | [RiderAds.co.uk](https://www.riderads.co.uk/) | React Native, Firebase, Node.js, Azure |
-| OpenClaw | Python, Claude API, Polymarket API, Linux VPS |
+| Hermes Agents | Python, Claude API, Polymarket API, Linux VPS |
 | Viral Videos Replicator| Gemini API, OpenAI API (Internal tool)|
 | [FrogbitShop](https://frogbitshop.up.railway.app/) | Laravel, PostgreSQL, Stripe |
 | [Chargeback Shield](https://apps.shopify.com/chargeback-shield) | TypeScript, React, Node.js, TensorFlow.js |
