@@ -1,6 +1,6 @@
 # David De La Cruz
 
-AI Product Engineer | Systems Integration
+Product Engineer | Building pipelines and agentic workflows
 
 I build LLM-powered pipelines and API-driven systems using Claude Code. Autonomous AI agents, workflow automation, and systems integration across content, marketing, and trading domains. Edinburgh, Scotland.
 
@@ -10,7 +10,9 @@ I build LLM-powered pipelines and API-driven systems using Claude Code. Autonomo
 
 **Product Engineer @ [frogbitsolutions.com](https://www.frogbitsolutions.com/)** - Building automation pipelines and AI-powered systems using Claude Code
 
-**Founder & Product Engineer @ [RiderAds.co.uk](https://www.riderads.co.uk/)** Advertising platform
+## Previous
+
+**Founder & Product Builder @ [RiderAds.co.uk](https://www.riderads.co.uk/)** Advertising platform
 
 ---
 
